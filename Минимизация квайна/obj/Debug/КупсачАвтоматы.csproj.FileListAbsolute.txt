@@ -1,0 +1,10 @@
+C:\Users\raal\source\repos\КупсачАвтоматы\КупсачАвтоматы\bin\Debug\КупсачАвтоматы.exe.config
+C:\Users\raal\source\repos\КупсачАвтоматы\КупсачАвтоматы\bin\Debug\КупсачАвтоматы.exe
+C:\Users\raal\source\repos\КупсачАвтоматы\КупсачАвтоматы\bin\Debug\КупсачАвтоматы.pdb
+C:\Users\raal\source\repos\КупсачАвтоматы\КупсачАвтоматы\obj\Debug\КупсачАвтоматы.csprojAssemblyReference.cache
+C:\Users\raal\source\repos\КупсачАвтоматы\КупсачАвтоматы\obj\Debug\КупсачАвтоматы.Form1.resources
+C:\Users\raal\source\repos\КупсачАвтоматы\КупсачАвтоматы\obj\Debug\КупсачАвтоматы.Properties.Resources.resources
+C:\Users\raal\source\repos\КупсачАвтоматы\КупсачАвтоматы\obj\Debug\КупсачАвтоматы.csproj.GenerateResource.cache
+C:\Users\raal\source\repos\КупсачАвтоматы\КупсачАвтоматы\obj\Debug\КупсачАвтоматы.csproj.CoreCompileInputs.cache
+C:\Users\raal\source\repos\КупсачАвтоматы\КупсачАвтоматы\obj\Debug\КупсачАвтоматы.exe
+C:\Users\raal\source\repos\КупсачАвтоматы\КупсачАвтоматы\obj\Debug\КупсачАвтоматы.pdb

@@ -1,0 +1,10 @@
+D:\Программирование\backend\C#\forms\Минимизация Квайна\Минимизация Квайна\bin\Debug\КупсачАвтоматы.exe.config
+D:\Программирование\backend\C#\forms\Минимизация Квайна\Минимизация Квайна\bin\Debug\КупсачАвтоматы.exe
+D:\Программирование\backend\C#\forms\Минимизация Квайна\Минимизация Квайна\bin\Debug\КупсачАвтоматы.pdb
+D:\Программирование\backend\C#\forms\Минимизация Квайна\Минимизация Квайна\obj\Debug\МинимизацияКвайна.csprojAssemblyReference.cache
+D:\Программирование\backend\C#\forms\Минимизация Квайна\Минимизация Квайна\obj\Debug\КупсачАвтоматы.Form1.resources
+D:\Программирование\backend\C#\forms\Минимизация Квайна\Минимизация Квайна\obj\Debug\КупсачАвтоматы.Properties.Resources.resources
+D:\Программирование\backend\C#\forms\Минимизация Квайна\Минимизация Квайна\obj\Debug\МинимизацияКвайна.csproj.GenerateResource.cache
+D:\Программирование\backend\C#\forms\Минимизация Квайна\Минимизация Квайна\obj\Debug\МинимизацияКвайна.csproj.CoreCompileInputs.cache
+D:\Программирование\backend\C#\forms\Минимизация Квайна\Минимизация Квайна\obj\Debug\КупсачАвтоматы.exe
+D:\Программирование\backend\C#\forms\Минимизация Квайна\Минимизация Квайна\obj\Debug\КупсачАвтоматы.pdb
